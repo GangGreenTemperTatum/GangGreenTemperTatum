@@ -4,22 +4,23 @@
 ---
  <!-- About section -->
 
-<h2><b>About Me | Repo's| Public Badges | Credentials</b></h3>
+<h2><b>About Me | Repo's | Public Badges | Credentials</b></h3>
 <!-- code gif-->
-<img align="right" alt="GIF" src="https://media3.giphy.com/media/n6Nrnz2jh9qOk/giphy.gif" width="500" height="300" />
+<img align="right" alt="GIF" src="https://media3.giphy.com/media/n6Nrnz2jh9qOk/giphy.gif" width="500" height="320" />
 <p>
 <br>
-🤟 I'm a Senior Security engineer and have a passion of all things blue and red team, whether that be offensive security, API security, automation of testing, detection & remediation (SOAR) as well as reverse engineering and deep packet inspection.
+🤟 I'm a Senior Security engineer and have a passion of all things blue and red team, whether that be offensive security, API security, automation of testing, threat hunting; detection & remediation (SOAR) as well as reverse engineering and deep packet inspection. I'm a networking veteran and love a good PCAP to delve into. One of my favorite things at Defcon is hunting for PWN's at the "Wall of Sheep" village and inspecting malicious payloads and binaries.
 <br>
 <br>
-I love sharing knowledge with others, building labs and testing to it's full extent so I fully comprehend a concept, who doesn't love a good worm-hole?!.. in my spare time, you’ll usually find me hanging out on community forums; meetups and Defcon, learning new languages, enhancing my shell-foo, or demonstrating my skills by participating in bug bounties, CTF’s and contributing to open-source projects.
+I love sharing knowledge with others, building labs and testing to it's full extent so I fully comprehend a concept, who doesn't love a good worm-hole?!.. in my spare time, you’ll usually find me hanging out on community forums; meetups, learning new languages, enhancing my shell-foo, or demonstrating my skills by participating in bug bounties, CTF’s and contributing to open-source projects.
 <br>
 <br>
 
 - 🌎 Canada 🇨🇦  
-- 🤙 Ask me about: AppSec, DevSecOps, Hacking API's, SOAR, CyberSecOps, OSINT.
-- 📫 Open to contributing on projects, please contact me 👇.
-- ⚡ Fun fact: Food, exploring and culture is everything 🍙 🏔️ 🤝
+- 🤙 **Ask me about:** AppSec | DevSecOps | Hacking API's | Reverse Engineering | SOAR | CyberSecOps | OSINT & Threat Hunting | Some "good ol' fashion" Networking.
+- 🐑 **Fun fact:** My highest collection of PWN's I captured at the ["Wall of Sheep"](https://www.wallofsheep.com/pages/wall-of-sheep) Defcon village is 5️⃣!
+- ⚡ **Outlook:** Food, exploring, family and culture is everything 🍙 🏔️ 🤝
+- 📫 Always open to contributing on projects or learning something new, please contact me 👇.
 
 </p>
 
@@ -56,15 +57,20 @@ I love sharing knowledge with others, building labs and testing to it's full ext
 <a href="https://python.org/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-G7lfHVAusHMoTKbHXHA0RtXGzOfyHx_T-Q&usqp=CAU" alt="python" width="40" height="40"/> </a>
 <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://miro.medium.com/max/1080/1*v4o2AXLIJaHSZmqYZk26qA.jpeg" alt="bash" width="40" height="40"/> </a>
 <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank"> <img src="https://learn.microsoft.com/en-us/windows/images/powershell.png" alt="powershell" width="40" height="40"/> </a>
+<a href="https://github.com/trufflesecurity/trufflehog" target="_blank"> <img src="https://avatars.githubusercontent.com/u/15876092?s=280&v=4" alt="trufflehog" width="40" height="40"/> </a>
+<a href="https://www.sonarsource.com/products/sonarqube/" target="_blank"> <img src="https://adrianalonso.es/wp-content/uploads/2017/10/sonarlogo.png" alt="sonarqube" width="40" height="40"/> </a>
 <a href="https://kali.org/" target="_blank"> <img src="https://guide-images.cdn.ifixit.com/igi/TiufGNbhhSwJPAoh.large" alt="kali" width="40" height="40"/> </a>
+<a href="https://www.metasploit.com/" target="_blank"> <img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" alt="metasploit" width="40" height="40"/> </a>
 <a href="https://portswigger.net/" target="_blank"> <img src="https://s3.us-east-2.amazonaws.com/s3.bishopfox.com/prod-1437/Images/channels/blog/tiles/Bishop-Fox-Blog-Burp-Suite.jpg" alt="burp" width="40" height="40"/> </a>
 <a href="https://owasp.org" target="_blank"> <img src="https://avatars.githubusercontent.com/u/6716868?s=280&v=4" alt="owaspzap" width="40" height="40"/> </a>
+<a href="https://www.nginx.com/products/nginx/modules/nginx-waf/#:~:text=The%20NGINX%20ModSecurity%20Web%20Application,used%20ModSecurity%20open%20source%20software." target="_blank"> <img src="http://www.nginx.com/wp-content/uploads/2021/08/NGINX-App-Protect-WAF_featured.png" alt="nginxwaf" width="40" height="40"/> </a>
 <a href="https://nmap.org" target="_blank"> <img src="https://nmap.org/images/nmap-logo-256x256.png" alt="nmap" width="40" height="40"/> </a>
 <a href="https://postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 <a href="https://tines.com/" target="_blank"> <img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/tl099lvzam3egk755aku" alt="tines" width="40" height="40"/> </a>
 <a href="https://suricata.org/" target="_blank"> <img src="https://pbs.twimg.com/profile_images/1402260783489290246/jH_DYDpG_400x400.jpg" alt="suricata" width="40" height="40"/> </a>
 <a href="https://snort.org/" target="_blank"> <img src="https://blog.rapid7.com/content/images/kk-img/2017/01/thumb-snort.jpg" alt="snort" width="40" height="40"/> </a>
 <a href="https://wireshark.org/" target="_blank"> <img src="https://ih1.redbubble.net/image.815853981.9202/st,small,507x507-pad,600x600,f8f8f8.u4.jpg" alt="wireshark" width="40" height="40"/> </a>
+<a href="https://www.wireshark.org/docs/man-pages/tshark.html" target="_blank"> <img src="https://miro.medium.com/max/375/0*ycBCWas33fAgoPUG.png" alt="tshark" width="40" height="40"/> </a>
 <a href="https://linux.die.net/man/8/iptables" target="_blank"> <img src="https://e7.pngegg.com/pngimages/107/959/png-clipart-firewall-computer-icons-computer-network-world-wide-web-rectangle-orange.png" alt="firewalls" width="40" height="40"/> </a>
 <a href="https://docker.com/" target="_blank"> <img src="https://developers.redhat.com/sites/default/files/styles/article_feature/public/blog/2014/05/homepage-docker-logo.png?itok=zx0e-vcP" alt="docker" width="40" height="40"/> </a>
 <a href="https://kubernetes.io" target="_blank"> <img src="https://kubernetes.io/images/favicon.png" alt="k8" width="40" height="40"/> </a>
@@ -84,7 +90,9 @@ I love sharing knowledge with others, building labs and testing to it's full ext
 <h2>Connect with me </h3>
     <p>
         <a href="https://www.linkedin.com/in/adamdawson0/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white;link=https://www.linkedin.com/in/adamdawson0/" alt="LinkedIn Badge"></a> 
-   
+
+- 🪐 You can also catch me on the [OWASP](https://owasp.org/) MARS [Slack Community](https://owasp.org/www-chapter-vancouver/)
+
 <!-- Connect section: END -->
 
 ---
