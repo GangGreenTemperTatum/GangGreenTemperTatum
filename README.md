@@ -1,26 +1,28 @@
 <!-- Heading -->
 <h1 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>... Hi there, i'm Ads!</h3>
 
+[![GitHub GangGreenTemperTatum](https://img.shields.io/github/followers/GangGreenTemperTatum?label=follow&style=social)](https://github.com/GangGreenTemperTatum)
 ---
- <!-- About section -->
+
+<!-- About section -->
 
 <h2><b>About Me | Repo's | Public Badges | Credentials</b></h3>
 <!-- code gif-->
 <img align="right" alt="GIF" src="https://media3.giphy.com/media/n6Nrnz2jh9qOk/giphy.gif" width="500" height="320" />
 <p>
-<br>
 🤟 I'm a Senior Security engineer and have a passion of all things blue and red team, whether that be offensive security, API security, automation of testing, threat hunting; detection & remediation (SOAR) as well as reverse engineering and deep packet inspection. I'm a networking veteran and love a good PCAP to delve into. One of my favorite things at Defcon is hunting for PWN's at the "Wall of Sheep" village and inspecting malicious payloads and binaries.
 <br>
 <br>
 I love sharing knowledge with others, building labs and testing to it's full extent so I fully comprehend a concept, who doesn't love a good worm-hole?!.. in my spare time, you’ll usually find me hanging out on community forums; meetups, learning new languages, enhancing my shell-foo, or demonstrating my skills by participating in bug bounties, CTF’s and contributing to open-source projects.
 <br>
-<br>
 
-- 🌎 Canada 🇨🇦  
-- 🤙 **Ask me about:** AppSec | DevSecOps | Hacking API's | Reverse Engineering | SOAR | CyberSecOps | OSINT & Threat Hunting | Some "good ol' fashion" Networking.
-- 🐑 **Fun fact:** My highest collection of PWN's I captured at the ["Wall of Sheep"](https://www.wallofsheep.com/pages/wall-of-sheep) Defcon village is 5️⃣!
-- ⚡ **Outlook:** Food, exploring, family and culture is everything 🍙 🏔️ 🤝
-- 📫 Always open to contributing on projects or learning something new, please contact me 👇.
+* 🌎 Canada 🇨🇦 
+* 🎧 **Collaborating on Projects:**
+  * [`collabnix/devsecops`](https://github.com/collabnix/devsecops) | [Collabnix | `Containers` | `Docker` | `Kubernetes` | `IoT's`](https://collabnix.com)
+* 🤙 **Ask me about:** `AppSec` | `DevSecOps` | `Hacking API's` | `Reverse Engineering` | `SOAR` | `CyberSecOps` | `OSINT & Threat Hunting` | `Networking`
+* 🐑 **Fun fact:** My highest collection of PWN's I captured at the ["Wall of Sheep"](https://www.wallofsheep.com/pages/wall-of-sheep) Defcon village is 5️⃣! Bahhhhh!
+* ⚡ **Outlook:** Food, exploring, family and culture is everything 🍙 🏔️ 🤝
+* 📫 Always open to contributing on projects or learning something new, please contact me 👇
 
 </p>
 
@@ -91,7 +93,9 @@ I love sharing knowledge with others, building labs and testing to it's full ext
     <p>
         <a href="https://www.linkedin.com/in/adamdawson0/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white;link=https://www.linkedin.com/in/adamdawson0/" alt="LinkedIn Badge"></a> 
 
-- 🪐 You can also catch me on the [OWASP](https://owasp.org/) MARS [Slack Community](https://owasp.org/www-chapter-vancouver/)
+* You can also catch me on the following Slack communities:
+  * ⚓ [Collabnix](https://collabnix.com/) [Slack Community](https://launchpass.com/collabnix) (project contributor and enthusiast)  
+  * 🪐 [OWASP](https://owasp.org/) MARS [Slack Community](https://owasp.org/www-chapter-vancouver/) (enthusiast)
 
 <!-- Connect section: END -->
 
@@ -101,33 +105,42 @@ I love sharing knowledge with others, building labs and testing to it's full ext
 
  ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
  
- <p align="left"><img src="https://komarev.com/ghpvc/?username=GangGreenTemperTatum&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
+[![GitHub GangGreenTemperTatum Profile Views](https://komarev.com/ghpvc/?username=GangGreenTemperTatum&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/GangGreenTemperTatum)
+[![GitHub GangGreenTemperTatum Stars](https://badgen.net/github/stars/ganggreentempertatum/ganggreentempertatum)](https://github.com/GangGreenTemperTatum)
+[![GitHub GangGreenTemperTatum Forks](https://badgen.net/github/forks/ganggreentempertatum/ganggreentempertatum)](https://github.com/GangGreenTemperTatum)
+
+<!-- Old HTML style Markup from above -->
+<!-- <p align="left"><img src="https://komarev.com/ghpvc/?username=GangGreenTemperTatum&label=Profile%20views&color=0e75b6&style=flat" alt="gitprofileviews" />
 </p>
  <p align="left"><img src="https://badgen.net/github/stars/ganggreentempertatum/ganggreentempertatum" alt="gitstars" />
 </p>
  <p align="left"><img src="https://badgen.net/github/forks/ganggreentempertatum/ganggreentempertatum" alt="gitforks" />
 </p>
+<!-- Old HTML style Markup END -->
 
- <div>
+[![GitHub GangGreenTemperTatum Profile Stats 1](https://github-readme-stats.vercel.app/api?username=GangGreenTemperTatum&theme=transparent&show_icons=true)](https://github.com/GangGreenTemperTatum)     
+<!--[![GitHub GangGreenTemperTatum Profile Stats 2](https://github-readme-streak-stats.herokuapp.com/?user=GangGreenTemperTatum)](https://github.com/GangGreenTemperTatum)-->
+<!--[![GitHub GangGreenTemperTatum Profile Stats 3](https://github-readme-stats.vercel.app/api/top-langs?username=GangGreenTemperTatum"&langs_count=20&show_icons=true&locale=en&layout=compact&theme=light)]-->
+![GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GangGreenTemperTatum&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
+     
+<!-- Old HTML style Markup from above -->
+<!--  <div>
    <img align="left" src="https://github-readme-stats.vercel.app/api?username=GangGreenTemperTatum&theme=transparent&show_icons=true" alt="Ads's Git Stats"/>
    <br>
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GangGreenTemperTatum" alt="Ads's Stats" />
    <br>
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GangGreenTemperTatum"&langs_count=20&show_icons=true&locale=en&layout=compact&theme=light" alt="Ads' language" height="192px"  width="500px"/>
 </div>
-
-<br>
-
+<!-- Old HTML style Markup END -->
+    
 **Expand to view:**
-
 <details>
   <summary><b>:zap: GitHub Profile Stat</b></summary>
-  <br>
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=GangGreenTemperTatum&show_icons=true" />
+  <!--<img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=GangGreenTemperTatum&show_icons=true" />-->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GangGreenTemperTatum" />
 </details>
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
    <a href="https://github.com/GangGreenTemperTatum/"><img alt="Ads' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=GangGreenTemperTatum&custom_title=Ads'%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 </details>
@@ -138,7 +151,8 @@ I love sharing knowledge with others, building labs and testing to it's full ext
 <!-- GitHub section: END -->
 
 <br>
-💾 EOF
+     
+💾 `EOF`
 
 <!-- GitHub Default README Stuff -->
 <!--
