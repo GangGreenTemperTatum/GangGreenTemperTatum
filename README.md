@@ -7,9 +7,12 @@
 <!-- About section -->
 
 <h2><b>About Me | Repo's | Public Badges | Credentials</b></h3>
-<!-- code gif-->
-<img align="right" alt="GIF" src="https://media0.giphy.com/media/IQrQTSWKbrAo8/200.gif?cid=ecf05e47gysua9aldc97r4xupy6ovzx835s9n6jq3hc3wpy3&rid=200.gif&ct=g" width="500" height="320" />
-<p>
+<!-- code gif --->
+<!-- <img align="right" alt="GIF" src="https://media0.giphy.com/media/IQrQTSWKbrAo8/200.gif?cid=ecf05e47gysua9aldc97r4xupy6ovzx835s9n6jq3hc3wpy3&rid=200.gif&ct=g" width="500" height="320" />-->
+<!-- ![20220812_171706](https://user-images.githubusercontent.com/104169244/214111892-1ed7d901-4714-46c4-bd60-a9f98b4416ae.jpg)-->
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/104169244/214111892-1ed7d901-4714-46c4-bd60-a9f98b4416ae.jpg" width="400" height="400" />
+
+<p align="left">
 🤟 I'm a Senior Security engineer and have a passion of all things blue and red team, whether that be offensive security, API security, automation of testing, threat hunting; detection & remediation (SOAR) as well as reverse engineering and deep packet inspection. I'm a networking veteran and love a good PCAP to delve into. One of my favorite things at Defcon is hunting for PWN's at the "Wall of Sheep" village and inspecting malicious payloads and binaries.
 <br>
 <br>
