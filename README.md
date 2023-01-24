@@ -22,8 +22,9 @@ I love sharing knowledge with others, building labs and testing to it's full ext
 * 🌎 Canada 🇨🇦 
 * 🎧 **Collaborating on Projects:**
   * [`collabnix/devsecops`](https://github.com/collabnix/devsecops) | [Collabnix | `Containers` | `Docker` | `Kubernetes` | `IoT's`](https://collabnix.com)
-* 🤙 **Ask me about:** `AppSec` | `DevSecOps` | `Hacking API's` | `Reverse Engineering` | `SOAR` | `CyberSecOps` | `OSINT & Threat Hunting` | `Networking`
-* 🐑 **Fun fact:** My highest collection of PWN's I captured at the ["Wall of Sheep"](https://www.wallofsheep.com/pages/wall-of-sheep) Defcon village is 5️⃣! Bahhhhh!
+* 🤙 **Ask me about:** 
+  * `AppSec` | `DevSecOps` | `Hacking API's` | `Reverse Engineering` | `SOAR` | `CyberSecOps` | `OSINT & Threat Hunting` | `Networking`
+* 🐑 **Fun fact:** My highest collection of PWN's I captured at the ["Wall of Sheep"](https://www.wallofsheep.com/pages/wall-of-sheep) Defcon village is 5️⃣!
 * ⚡ **Outlook:** Food, exploring, family and culture is everything 🍙 🏔️ 🤝
 * 📫 Always open to contributing on projects or learning something new, please contact me 👇
 
@@ -42,17 +43,13 @@ I love sharing knowledge with others, building labs and testing to it's full ext
 <a href="https://www.credly.com/users/adam-dawson.6dc91e21/badges"><img align="right" img src="https://info.credly.com/hubfs/Credly%20Atos%20Web%20Assets/Credly%20Logos/Credly_Pearson_Logo_Orange.svg" style="width:300px;height:60px" ;link=https://www.credly.com/users/adam-dawson.6dc91e21/badges" alt="Credly/Acclaim Profile"></a> 
     </p>
     <p>
-<a href="https://badgr.com/public/collections/c46f1905748e4e93802d97496b5dd4b8"><img align="left" img src="https://ltd-media.iste.org/logo/l_create_Logo%20Light.jpg" style="width:300px;height:60px" ;link=https://badgr.com/public/collections/c46f1905748e4e93802d97496b5dd4b8" alt="Badgr/Canvas Profile"></a> 
+<a href="https://api.badgr.io/public/collections/c46f1905748e4e93802d97496b5dd4b8"><img align="left" img src="https://ltd-media.iste.org/logo/l_create_Logo%20Light.jpg" style="width:300px;height:60px" ;link=https://badgr.com/public/collections/c46f1905748e4e93802d97496b5dd4b8" alt="Badgr/Canvas Profile"></a> 
+ <a href="https://www.credential.net/profile/adsdawson239132/wallet"><img align="center" img src="https://www.credential.net/assets/themes/credential.net/images/accredible_logo.svg" style="width:300px;height:60px" ;link=[https://www.postman.com/ganggreentempertatum](https://www.credential.net/profile/adsdawson239132/wallet)" alt="Accredible Credentials"></a> 
     </p>    
-
-<br>
 <br>
 <!-- TryHackMe Badge <script src="https://tryhackme.com/badge/292354"></script> -->
 <!-- <img src="https://tryhackme-badges.s3.amazonaws.com/GangGreenTatum.png" alt="TryHackMe"> -->
 <!-- <img src="https://tryhackme.com/p/GangGreenTatum?show_achievement_badg=blue/ alt="TryHackMe">  -->
-<br>
-<br>
-
 <h2 align="left">:hammer_and_wrench: Frequent Technologies and Tools I use:</h2>
 <p align="left">
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
