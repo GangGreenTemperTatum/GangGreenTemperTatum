@@ -96,6 +96,7 @@ I love sharing knowledge with others, building labs and testing to it's full ext
 * You can also catch me on the following Slack communities:
   * ⚓ [Collabnix](https://collabnix.com/) [Slack Community](https://launchpass.com/collabnix) (project contributor and enthusiast)  
   * 🪐 [OWASP](https://owasp.org/) MARS [Slack Community](https://owasp.org/www-chapter-vancouver/) (enthusiast)
+  * 🤓 Chat with me or connect to reach out for help on the [Suricata.io Forums](https://forum.suricata.io/u/adudewhosurfs/badges) site!
 
 <!-- Connect section: END -->
 
