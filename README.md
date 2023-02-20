@@ -61,7 +61,7 @@ I love sharing knowledge with others, building labs and testing to it's full ext
 <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank"> <img src="https://learn.microsoft.com/en-us/windows/images/powershell.png" alt="powershell" width="40" height="40"/> </a>
 <a href="https://github.com/trufflesecurity/trufflehog" target="_blank"> <img src="https://avatars.githubusercontent.com/u/15876092?s=280&v=4" alt="trufflehog" width="40" height="40"/> </a>
 <a href="https://www.sonarsource.com/products/sonarqube/" target="_blank"> <img src="https://adrianalonso.es/wp-content/uploads/2017/10/sonarlogo.png" alt="sonarqube" width="40" height="40"/> </a>
-<a href="https://kali.org/" target="_blank"> <img src="https://guide-images.cdn.ifixit.com/igi/TiufGNbhhSwJPAoh.large" alt="kali" width="40" height="40"/> </a>
+<a href="https://kali.org/" target="_blank"> <img src="https://i.stack.imgur.com/Gns38.png" alt="kali" width="40" height="40"/> </a>
 <a href="https://www.metasploit.com/" target="_blank"> <img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" alt="metasploit" width="40" height="40"/> </a>
 <a href="https://portswigger.net/" target="_blank"> <img src="https://s3.us-east-2.amazonaws.com/s3.bishopfox.com/prod-1437/Images/channels/blog/tiles/Bishop-Fox-Blog-Burp-Suite.jpg" alt="burp" width="40" height="40"/> </a>
 <a href="https://owasp.org" target="_blank"> <img src="https://avatars.githubusercontent.com/u/6716868?s=280&v=4" alt="owaspzap" width="40" height="40"/> </a>
