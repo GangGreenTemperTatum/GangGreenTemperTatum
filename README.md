@@ -18,16 +18,20 @@
 <br>
 I love sharing knowledge with others, building labs and testing to it's full extent so I fully comprehend a concept, who doesn't love a good worm-hole?!.. in my spare time, you’ll usually find me hanging out on community forums; meetups, learning new languages, enhancing my shell-foo, or demonstrating my skills by participating in bug bounties, CTF’s and contributing to open-source projects.
 <br>
+<br>
+ 
+- 🌎 Canada 🇨🇦 
+- 🎧 **Collaborating on Projects** (proud supporter, contributor and enthusiast for:)
+ - - [OWASP Top 10 for Large Language Model Applications](https://github.com/OWASP/www-project-top-10-for-large-language-model-applications/wiki/Supporters)
+ - - [MARS Vancouver - #owasp-vancouver and #dc604](https://fourthplanet.ca/)
+ - - [Collabnix -> devsecops](https://github.com/collabnix/devsecops)
+- 🤙 **Ask me about:** 
+ - - `AppSec` | `API Security` | `LLM Security` | `DevSecOps` | `Hacking API's` | `Reverse Engineering` | `SOAR` | `CyberSecOps` | `OSINT & Threat Hunting` | `Cloud Security` | `Containers` | `Networking`
+- 🐑 **Fun fact:** My highest collection of PWN's I captured at the ["Wall of Sheep"](https://www.wallofsheep.com/pages/wall-of-sheep) Defcon village is 5️⃣!
+- ⚡ **Outlook:** Food, exploring, family and culture is everything 🍙 🏔️ 🤝
+- 📫 Always open to contributing on projects or learning something new, please contact me 👇
 
-* 🌎 Canada 🇨🇦 
-* 🎧 **Collaborating on Projects:**
-  * [`collabnix/devsecops`](https://github.com/collabnix/devsecops) | [Collabnix | `Containers` | `Docker` | `Kubernetes` | `IoT's`](https://collabnix.com)
-* 🤙 **Ask me about:** 
-  * `AppSec` | `DevSecOps` | `Hacking API's` | `Reverse Engineering` | `SOAR` | `CyberSecOps` | `OSINT & Threat Hunting` | `Networking`
-* 🐑 **Fun fact:** My highest collection of PWN's I captured at the ["Wall of Sheep"](https://www.wallofsheep.com/pages/wall-of-sheep) Defcon village is 5️⃣!
-* ⚡ **Outlook:** Food, exploring, family and culture is everything 🍙 🏔️ 🤝
-* 📫 Always open to contributing on projects or learning something new, please contact me 👇
-
+<br>
 </p>
 
 <h5 style="font-size:2vw">(Featured, but not limited to)</h5>
@@ -94,8 +98,9 @@ I love sharing knowledge with others, building labs and testing to it's full ext
         <a href="https://www.linkedin.com/in/adamdawson0/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white;link=https://www.linkedin.com/in/adamdawson0/" alt="LinkedIn Badge"></a> 
 
 * You can also catch me on the following Slack communities:
+  * 🪐 [OWASP](https://owasp.org/) MARS [Slack Community](https://owasp.org/www-chapter-vancouver/) (enthusiast and contributor)
+  * ⚡ [OWASP](https://owasp.org/) [Slack Community]([https://owasp.org/www-chapter-vancouver/](https://join.slack.com/t/owasp/shared_invite/zt-1w2x2eqms-oAW_~vT1TnIBglt_SthJyQ)) (enthusiast and contributor)
   * ⚓ [Collabnix](https://collabnix.com/) [Slack Community](https://launchpass.com/collabnix) (project contributor and enthusiast)  
-  * 🪐 [OWASP](https://owasp.org/) MARS [Slack Community](https://owasp.org/www-chapter-vancouver/) (enthusiast)
   * 🤓 Chat with me or connect to reach out for help on the [Suricata.io Forums](https://forum.suricata.io/u/adudewhosurfs/badges) site!
 
 <!-- Connect section: END -->
