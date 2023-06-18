@@ -22,11 +22,11 @@ I love sharing knowledge with others, building labs and testing to it's full ext
  
 - 🌎 Canada 🇨🇦 
 - 🎧 **Collaborating on Projects** (proud supporter, contributor and enthusiast for:)
- - - [OWASP Top 10 for Large Language Model Applications](https://github.com/OWASP/www-project-top-10-for-large-language-model-applications/wiki/Supporters)
- - - [MARS Vancouver - #owasp-vancouver and #dc604](https://fourthplanet.ca/)
- - - [Collabnix -> devsecops](https://github.com/collabnix/devsecops)
+   - [OWASP Top 10 for Large Language Model Applications](https://github.com/OWASP/www-project-top-10-for-large-language-model-applications/wiki/Supporters)
+   - [MARS Vancouver - #owasp-vancouver and #dc604](https://fourthplanet.ca/)
+   - [Collabnix -> devsecops](https://github.com/collabnix/devsecops)
 - 🤙 **Ask me about:** 
- - - `AppSec` | `API Security` | `LLM Security` | `DevSecOps` | `Hacking API's` | `Reverse Engineering` | `SOAR` | `CyberSecOps` | `OSINT & Threat Hunting` | `Cloud Security` | `Containers` | `Networking`
+ - - `Application Security` | `API Security` | `LLM Security` | `NLP Security` | `Hacking API's` | `DevSecOps` | `SOAR` | `OSINT & Threat Hunting` | `Reverse Engineering` | `CyberSecOps` | `Cloud Security` | `Containers` | `Networking`
 - 🐑 **Fun fact:** My highest collection of PWN's I captured at the ["Wall of Sheep"](https://www.wallofsheep.com/pages/wall-of-sheep) Defcon village is 5️⃣!
 - ⚡ **Outlook:** Food, exploring, family and culture is everything 🍙 🏔️ 🤝
 - 📫 Always open to contributing on projects or learning something new, please contact me 👇
