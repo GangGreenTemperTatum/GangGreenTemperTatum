@@ -21,12 +21,16 @@ I love sharing knowledge with others, building labs and testing to it's full ext
 <br>
  
 - 🌎 Canada 🇨🇦 
-- 🎧 **Collaborating on Projects** (proud supporter, contributor and enthusiast for:)
-   - [OWASP Top 10 for Large Language Model Applications](https://github.com/OWASP/www-project-top-10-for-large-language-model-applications/wiki/Supporters)
-   - [MARS Vancouver - #owasp-vancouver and #dc604](https://fourthplanet.ca/)
-   - [Collabnix -> devsecops](https://github.com/collabnix/devsecops)
+- 🎧 **Collaborating on Projects**:
+   - 🤖 [OWASP Top 10 for Large Language Model Applications](https://github.com/OWASP/www-project-top-10-for-large-language-model-applications/wiki/Contributors)
+     - I am extremely proud contributor of the project and voted author of `0_9` [vulnerability entries](https://github.com/OWASP/www-project-top-10-for-large-language-model-applications/tree/main/0_9_vulns) during my contributions within this open-source project and as part of crucial phase 3, sprint 1 of the project to establish the OWASP Top 10 for Large Language Model Applications: 👇
+     - ✏️ `AdsDawson_DataLeakage` [here](https://github.com/OWASP/www-project-top-10-for-large-language-model-applications/blob/main/0_9_vulns/AdsDawson_DataLeakage.md)
+     - ✏️ `AdsDawson_LLM10_Training_Data_Poisoning` [here](https://github.com/OWASP/www-project-top-10-for-large-language-model-applications/blob/main/0_9_vulns/AdsDawson_LLM10_Training_Data_Poisoning.md)
+     - Please feel free to join me at two of my new channels both **#team-llm-ads_data_leakage** and **#team-llm-ads_data_poisoning**!
+   - 😈 [MARS Vancouver - #owasp-vancouver and #dc604](https://fourthplanet.ca/) Proud supporter, contributor and enthusiast
+   - 🔧 [Collabnix -> devsecops](https://github.com/collabnix/devsecops) Proud supporter, contributor and enthusiast
 - 🤙 **Ask me about:** 
- - - `Application Security` | `API Security` | `LLM Security` | `NLP Security` | `Hacking API's` | `DevSecOps` | `SOAR` | `OSINT & Threat Hunting` | `Reverse Engineering` | `CyberSecOps` | `Cloud Security` | `Containers` | `Networking`
+   - `Application Security` | `API Security` | `LLM Security` | `NLP Security` | `Hacking API's` | `DevSecOps` | `SOAR` | `OSINT & Threat Hunting` | `Reverse Engineering` | `CyberSecOps` | `Cloud Security` | `Containers` | `Networking`
 - 🐑 **Fun fact:** My highest collection of PWN's I captured at the ["Wall of Sheep"](https://www.wallofsheep.com/pages/wall-of-sheep) Defcon village is 5️⃣!
 - ⚡ **Outlook:** Food, exploring, family and culture is everything 🍙 🏔️ 🤝
 - 📫 Always open to contributing on projects or learning something new, please contact me 👇
