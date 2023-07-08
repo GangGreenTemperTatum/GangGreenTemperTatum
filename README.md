@@ -30,8 +30,10 @@ I love sharing knowledge with others, building labs and testing to it's full ext
      - ✏️ `AdsDawson_LLM10_Training_Data_Poisoning` [here](https://github.com/OWASP/www-project-top-10-for-large-language-model-applications/blob/main/0_9_vulns/AdsDawson_LLM10_Training_Data_Poisoning.md)
      - Please feel free to join me at two of my new channels both **[#team-llm-ads_data_leakage](https://owasp.slack.com/archives/C05FL7WB1BK)** and **[#team-llm-ads_data_poisoning](https://owasp.slack.com/archives/C05F7JWFYBU)**!
      - 🤚 [OWASP Top 10 for Large Language Model Applications - Contributors List](https://github.com/OWASP/www-project-top-10-for-large-language-model-applications/wiki/Contributors)
-   - 😈 [MARS Vancouver - #owasp-vancouver and #dc604](https://fourthplanet.ca/) Proud supporter, contributor and enthusiast
-   - 🔧 [Collabnix -> devsecops](https://github.com/collabnix/devsecops) Proud supporter, contributor and enthusiast
+   - 🧠 [Responsible Artificial Intelligence Institute](https://www.responsible.ai/become-a-member) Proud supporter, contributor, and enthusiast
+   - 🧠 [The Institute for Ethical AI & Machine Learning](https://ethical.institute/security.html) Proud supporter, contributor, and enthusiast
+   - 😈 [MARS Vancouver - #owasp-vancouver and #dc604](https://fourthplanet.ca/) Proud supporter, contributor, and enthusiast
+   - 🔧 [Collabnix -> devsecops](https://github.com/collabnix/devsecops) Proud supporter, contributor, and enthusiast
 - 🤙 **Ask me about:** 
    - `Application Security` | `API Security` | `LLM Security` | `NLP Security` | `Hacking API's` | `DevSecOps` | `SOAR` | `OSINT & Threat Hunting` | `Reverse Engineering` | `CyberSecOps` | `Cloud Security` | `Containers` | `Networking`
 - 🐑 **Fun fact:** My highest collection of PWN's I captured at the ["Wall of Sheep"](https://www.wallofsheep.com/pages/wall-of-sheep) Defcon village is 5️⃣!
