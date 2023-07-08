@@ -63,7 +63,8 @@ I love sharing knowledge with others, building labs and testing to it's full ext
     </p>
     <p>
 <a href="https://api.badgr.io/public/collections/c46f1905748e4e93802d97496b5dd4b8"><img align="left" img src="https://ltd-media.iste.org/logo/l_create_Logo%20Light.jpg" style="width:300px;height:60px" ;link=https://badgr.com/public/collections/c46f1905748e4e93802d97496b5dd4b8" alt="Badgr/Canvas Profile"></a> 
- <a href="https://www.credential.net/profile/adsdawson239132/wallet"><img align="center" img src="https://www.credential.net/assets/themes/credential.net/images/accredible_logo.svg" style="width:300px;height:60px" ;link=[https://www.postman.com/ganggreentempertatum](https://www.credential.net/profile/adsdawson239132/wallet)" alt="Accredible Credentials"></a> 
+ <a href="https://www.credential.net/profile/adsdawson239132/wallet"><img align="center" img src="https://www.credential.net/assets/themes/credential.net/images/accredible_logo.svg" style="width:300px;height:60px" ;link=[https://www.postman.com/ganggreentempertatum](https://www.credential.net/profile/adsdawson239132/wallet)" alt="Accredible Credentials"></a>
+ <a href="https://www.cloudskillsboost.google/public_profiles/31178c26-e328-450f-8fd1-40e310026dfd"><img align="right" img src="https://s3.us-east-1.amazonaws.com/accredible_temp_credential_images/15803214695437276596645753822808.png" style="width:300px;height:60px" ;link=[https://www.postman.com/ganggreentempertatum](https://www.credential.net/profile/adsdawson239132/wallet)" alt="Google Cloud Credentials"></a> 
     </p>    
 <br>
 <!-- TryHackMe Badge <script src="https://tryhackme.com/badge/292354"></script> -->
