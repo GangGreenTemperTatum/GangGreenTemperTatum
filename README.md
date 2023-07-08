@@ -23,6 +23,9 @@ I love sharing knowledge with others, building labs and testing to it's full ext
 - 🌎 Canada 🇨🇦 
 - 📣 **Public Speaking & Conferences**:
    - 🎙️ See my dedicated repo [here](https://github.com/GangGreenTemperTatum/speaking) containing recordings, slides and documentation
+ 
+-------
+
 - 🎧 **Collaborating on Projects**:
    - 🤖 [OWASP Top 10 for Large Language Model Applications](https://github.com/OWASP/www-project-top-10-for-large-language-model-applications/wiki/Contributors)
      - I am extremely proud contributor of the project and voted author of `0_9` [vulnerability entries](https://github.com/OWASP/www-project-top-10-for-large-language-model-applications/tree/main/0_9_vulns) during my contributions within this open-source project and as part of crucial phase 3, sprint 1 of the project to establish the OWASP Top 10 for Large Language Model Applications: 👇
@@ -34,6 +37,9 @@ I love sharing knowledge with others, building labs and testing to it's full ext
    - 🧠 [The Institute for Ethical AI & Machine Learning](https://ethical.institute/security.html) Proud supporter, contributor, and enthusiast
    - 😈 [MARS Vancouver - #owasp-vancouver and #dc604](https://fourthplanet.ca/) Proud supporter, contributor, and enthusiast
    - 🔧 [Collabnix -> devsecops](https://github.com/collabnix/devsecops) Proud supporter, contributor, and enthusiast
+
+-------
+
 - 🤙 **Ask me about:** 
    - `Application Security` | `API Security` | `LLM Security` | `NLP Security` | `Hacking API's` | `DevSecOps` | `SOAR` | `OSINT & Threat Hunting` | `Reverse Engineering` | `CyberSecOps` | `Cloud Security` | `Containers` | `Networking`
 - 🐑 **Fun fact:** My highest collection of PWN's I captured at the ["Wall of Sheep"](https://www.wallofsheep.com/pages/wall-of-sheep) Defcon village is 5️⃣!
