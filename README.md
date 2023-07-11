@@ -28,11 +28,14 @@ I love sharing knowledge with others, building labs and testing to it's full ext
 
 - 🎧 **Collaborating on Projects**:
    - 🤖 [OWASP Top 10 for Large Language Model Applications](https://github.com/OWASP/www-project-top-10-for-large-language-model-applications/wiki/Contributors)
-     - I am extremely proud contributor of the project and voted author of `0_9` [vulnerability entries](https://github.com/OWASP/www-project-top-10-for-large-language-model-applications/tree/main/0_9_vulns) during my contributions within this open-source project and as part of crucial phase 3, sprint 1 of the project to establish the OWASP Top 10 for Large Language Model Applications: 👇
+     - 🤚 I am extremely proud [contributor](https://github.com/OWASP/www-project-top-10-for-large-language-model-applications/wiki/Contributors) of the project and voted author of `0_9` [vulnerability entries](https://github.com/OWASP/www-project-top-10-for-large-language-model-applications/tree/main/0_9_vulns) during my contributions within this open-source project and as part of crucial phase 3, sprint 1 of the project to establish the OWASP Top 10 for Large Language Model Applications: 👇
      - ✏️ `AdsDawson_DataLeakage` [here](https://github.com/OWASP/www-project-top-10-for-large-language-model-applications/blob/main/0_9_vulns/AdsDawson_DataLeakage.md)
      - ✏️ `AdsDawson_LLM10_Training_Data_Poisoning` [here](https://github.com/OWASP/www-project-top-10-for-large-language-model-applications/blob/main/0_9_vulns/AdsDawson_LLM10_Training_Data_Poisoning.md)
-     - Please feel free to join me at two of my new channels both **[#team-llm-ads_data_leakage](https://owasp.slack.com/archives/C05FL7WB1BK)** and **[#team-llm-ads_data_poisoning](https://owasp.slack.com/archives/C05F7JWFYBU)**!
-     - 🤚 [OWASP Top 10 for Large Language Model Applications - Contributors List](https://github.com/OWASP/www-project-top-10-for-large-language-model-applications/wiki/Contributors)
+     - ✏️ `AdsDawson_Model_Theft` [here]()
+       - Please feel free to join me at two of my new channels:
+         - **[#team-llm-ads_data_leakage](https://owasp.slack.com/archives/C05FL7WB1BK)**
+         - **[#team-llm-ads_data_poisoning](https://owasp.slack.com/archives/C05F7JWFYBU)**
+         - **[#team-llm-model_theft](https://owasp.slack.com/archives/C05GY6S3YJD)**
    - 🧠 [Responsible Artificial Intelligence Institute](https://www.responsible.ai/become-a-member) Proud supporter, contributor, and enthusiast
    - 🧠 [The Institute for Ethical AI & Machine Learning](https://ethical.institute/security.html) Proud supporter, contributor, and enthusiast
    - 😈 [MARS Vancouver - #owasp-vancouver and #dc604](https://fourthplanet.ca/) Proud supporter, contributor, and enthusiast
