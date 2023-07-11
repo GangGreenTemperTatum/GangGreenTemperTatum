@@ -29,9 +29,9 @@ I love sharing knowledge with others, building labs and testing to it's full ext
 - 🎧 **Collaborating on Projects**:
    - 🤖 [OWASP Top 10 for Large Language Model Applications](https://github.com/OWASP/www-project-top-10-for-large-language-model-applications/wiki/Contributors)
      - 🤚 I am extremely proud [contributor](https://github.com/OWASP/www-project-top-10-for-large-language-model-applications/wiki/Contributors) of the project and voted author of `0_9` [vulnerability entries](https://github.com/OWASP/www-project-top-10-for-large-language-model-applications/tree/main/0_9_vulns) during my contributions within this open-source project and as part of crucial phase 3, sprint 1 of the project to establish the OWASP Top 10 for Large Language Model Applications: 👇
-     - ✏️ `AdsDawson_DataLeakage` [here](https://github.com/OWASP/www-project-top-10-for-large-language-model-applications/blob/main/0_9_vulns/AdsDawson_DataLeakage.md)
+     - ✏️ `AdsDawson_DataLeakage` | `AdsDawson_SensitiveInformationDisclosure` [here](https://github.com/GangGreenTemperTatum/www-project-top-10-for-large-language-model-applications/blob/main/0_9_vulns/SensitiveInformationDisclosure.md)
      - ✏️ `AdsDawson_LLM10_Training_Data_Poisoning` [here](https://github.com/OWASP/www-project-top-10-for-large-language-model-applications/blob/main/0_9_vulns/AdsDawson_LLM10_Training_Data_Poisoning.md)
-     - ✏️ `AdsDawson_Model_Theft` [here]()
+     - ✏️ `AdsDawson_Model_Theft` [here](https://github.com/GangGreenTemperTatum/www-project-top-10-for-large-language-model-applications/tree/main/0_9_vulns/Model_Theft.md)
        - Please feel free to join me at two of my new channels:
          - **[#team-llm-ads_data_leakage](https://owasp.slack.com/archives/C05FL7WB1BK)**
          - **[#team-llm-ads_data_poisoning](https://owasp.slack.com/archives/C05F7JWFYBU)**
