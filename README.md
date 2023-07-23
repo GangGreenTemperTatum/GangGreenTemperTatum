@@ -1,5 +1,5 @@
 <!-- Heading -->
-<h1 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>... Hi there, i'm Ads!</h3>
+<h1 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>... Hola, i'm Ads!</h3>
 
 [![GitHub GangGreenTemperTatum](https://img.shields.io/github/followers/GangGreenTemperTatum?label=follow&style=social)](https://github.com/GangGreenTemperTatum)
 ---
@@ -22,20 +22,13 @@ I love sharing knowledge with others, building labs and testing to it's full ext
  
 - 🌎 Canada 🇨🇦 
 - 📣 **Public Speaking & Conferences**:
-   - 🎙️ See my dedicated repo [here](https://github.com/GangGreenTemperTatum/speaking) containing recordings, slides and documentation
+   - My dedicated repo [here](https://github.com/GangGreenTemperTatum/speaking) containing recordings, slides and documentation
  
 -------
 
 - 🎧 **Collaborating on Projects**:
-   - 🤖 [OWASP Top 10 for Large Language Model Applications](https://github.com/OWASP/www-project-top-10-for-large-language-model-applications/wiki/Contributors)
-     - 🤚 I am extremely proud [contributor](https://github.com/OWASP/www-project-top-10-for-large-language-model-applications/wiki/Contributors) of the project and voted author of `0_9` [vulnerability entries](https://github.com/OWASP/www-project-top-10-for-large-language-model-applications/tree/main/0_9_vulns) during my contributions within this open-source project and as part of crucial phase 3, sprint 1 of the project to establish the OWASP Top 10 for Large Language Model Applications: 👇
-     - ✏️ `AdsDawson_DataLeakage` | `AdsDawson_SensitiveInformationDisclosure` [here](https://github.com/GangGreenTemperTatum/www-project-top-10-for-large-language-model-applications/blob/main/0_9_vulns/SensitiveInformationDisclosure.md)
-     - ✏️ `AdsDawson_LLM10_Training_Data_Poisoning` [here](https://github.com/OWASP/www-project-top-10-for-large-language-model-applications/blob/main/0_9_vulns/AdsDawson_LLM10_Training_Data_Poisoning.md)
-     - ✏️ `AdsDawson_Model_Theft` [here](https://github.com/GangGreenTemperTatum/www-project-top-10-for-large-language-model-applications/tree/main/0_9_vulns/Model_Theft.md)
-       - Please feel free to join me at two of my new channels:
-         - **[#team-llm-ads_data_leakage](https://owasp.slack.com/archives/C05FL7WB1BK)**
-         - **[#team-llm-ads_data_poisoning](https://owasp.slack.com/archives/C05F7JWFYBU)**
-         - **[#team-llm-model_theft](https://owasp.slack.com/archives/C05GY6S3YJD)**
+   - 🤖 [OWASP Top 10 for Large Language Model Applications](https://owasp.org/www-project-top-10-for-large-language-model-applications/)
+     - Proud core [contributor](https://github.com/OWASP/www-project-top-10-for-large-language-model-applications/wiki/Contributors) of the project and voted lead/author of 3 x `1.0` [vulnerability entries](https://github.com/OWASP/www-project-top-10-for-large-language-model-applications/tree/main/1_0_vulns) to establish the official OWASP Top 10 for Large Language Model Applications:
    - 🧠 [Responsible Artificial Intelligence Institute](https://www.responsible.ai/become-a-member) Proud supporter, contributor, and enthusiast
    - 🧠 [The Institute for Ethical AI & Machine Learning](https://ethical.institute/security.html) Proud supporter, contributor, and enthusiast
    - 😈 [MARS Vancouver - #owasp-vancouver and #dc604](https://fourthplanet.ca/) Proud supporter, contributor, and enthusiast
@@ -44,7 +37,7 @@ I love sharing knowledge with others, building labs and testing to it's full ext
 -------
 
 - 🤙 **Ask me about:** 
-   - `Application Security` | `API Security` | `LLM Security` | `NLP Security` | `Hacking API's` | `DevSecOps` | `SOAR` | `OSINT & Threat Hunting` | `Reverse Engineering` | `CyberSecOps` | `Cloud Security` | `Containers` | `Networking`
+   - `Application Security` | `API Security` | `LLM Security` | `LLM Red Teaming` | `NLP Security` | `Hacking API's` | `DevSecOps` | `SOAR` | `OSINT & Threat Hunting` | `Reverse Engineering` | `CyberSecOps` | `Cloud Security` | `Containers` | `Networking`
 - 🐑 **Fun fact:** My highest collection of PWN's I captured at the ["Wall of Sheep"](https://www.wallofsheep.com/pages/wall-of-sheep) Defcon village is 5️⃣!
 - ⚡ **Outlook:** Food, exploring, family and culture is everything 🍙 🏔️ 🤝
 - 📫 Always open to contributing on projects or learning something new, please contact me 👇
