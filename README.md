@@ -28,7 +28,7 @@ I love sharing knowledge with others, building labs and testing to it's full ext
 
 - 🎧 **Collaborating on Projects**:
    - 🤖 [OWASP Top 10 for Large Language Model Applications](https://owasp.org/www-project-top-10-for-large-language-model-applications/)
-     - Proud core [contributor](https://github.com/OWASP/www-project-top-10-for-large-language-model-applications/wiki/Contributors) of the project and voted lead/author of 3 x `1.0` [vulnerability entries](https://github.com/OWASP/www-project-top-10-for-large-language-model-applications/tree/main/1_0_vulns) to establish the official OWASP Top 10 for Large Language Model Applications:
+     - Proud core [contributor](https://github.com/OWASP/www-project-top-10-for-large-language-model-applications/wiki/Contributors) of the project and voted lead/author of 3 x `1.0` [vulnerability entries](https://github.com/OWASP/www-project-top-10-for-large-language-model-applications/tree/main/1_0_vulns) to establish the official OWASP Top 10 for Large Language Model Applications
    - 🧠 [Responsible Artificial Intelligence Institute](https://www.responsible.ai/become-a-member) Proud supporter, contributor, and enthusiast
    - 🧠 [The Institute for Ethical AI & Machine Learning](https://ethical.institute/security.html) Proud supporter, contributor, and enthusiast
    - 😈 [MARS Vancouver - #owasp-vancouver and #dc604](https://fourthplanet.ca/) Proud supporter, contributor, and enthusiast
