@@ -29,10 +29,13 @@ I love sharing knowledge with others, building labs and testing to it's full ext
 - 🎧 **Collaborating on Projects**:
    - 🤖 [OWASP Top 10 for Large Language Model Applications](https://owasp.org/www-project-top-10-for-large-language-model-applications/)
      - Proud Core Team Member, [v1.1 Release Lead](https://github.com/OWASP/www-project-top-10-for-large-language-model-applications/wiki/Core-Team), Entry Lead Expert and Founder of the project and voted lead/author of 3 x `1.0` [vulnerability entries](https://github.com/OWASP/www-project-top-10-for-large-language-model-applications/tree/main/1_0_vulns) to establish the official OWASP Top 10 for Large Language Model Applications
+     - Received MVP award for v1.1 release.
    - 🧠 [Responsible Artificial Intelligence Institute](https://www.responsible.ai/become-a-member) Proud supporter, contributor, and enthusiast
    - 🧠 [The Institute for Ethical AI & Machine Learning](https://ethical.institute/security.html) Proud supporter, contributor, and enthusiast
    - 😈 [MARS Vancouver - #owasp-vancouver and #dc604](https://fourthplanet.ca/) Proud supporter, contributor, and enthusiast
    - 🔧 [Collabnix -> devsecops](https://github.com/collabnix/devsecops) Proud supporter, contributor, and enthusiast
+
+<img width="325" img align="center" alt="ads-owasp-top-10-llm-apps-mvp" src="https://github.com/GangGreenTemperTatum/GangGreenTemperTatum/assets/104169244/a8200127-cea7-4eab-9dea-57a58690b322">
 
 -------
 
@@ -41,6 +44,8 @@ I love sharing knowledge with others, building labs and testing to it's full ext
 - 🐑 **Fun fact:** My highest collection of PWN's I captured at the ["Wall of Sheep"](https://www.wallofsheep.com/pages/wall-of-sheep) Defcon village is 5️⃣!
 - ⚡ **Outlook:** Food, exploring, family and culture is everything 🍙 🏔️ 🤝
 - 📫 Always open to contributing on projects or learning something new, please contact me 👇
+
+
 
 <br>
 </p>
