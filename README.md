@@ -30,6 +30,7 @@ I love sharing knowledge with others, building labs and testing to it's full ext
    - 🤖 [OWASP Top 10 for Large Language Model Applications](https://owasp.org/www-project-top-10-for-large-language-model-applications/)
      - Proud Core Team Member, [v1.1 Release Lead](https://github.com/OWASP/www-project-top-10-for-large-language-model-applications/wiki/Core-Team), Entry Lead Expert and Founder of the project and voted lead/author of 3 x `1.0` [vulnerability entries](https://github.com/OWASP/www-project-top-10-for-large-language-model-applications/tree/main/1_0_vulns) to establish the official OWASP Top 10 for Large Language Model Applications
      - Received MVP award for v1.1 release.
+   -	🧠 Core contributor of the [Cloud Security Alliance AI Control](https://cloudsecurityalliance.org/research/working-groups/ai-controls/) Framework working group
    - 🧠 [Responsible Artificial Intelligence Institute](https://www.responsible.ai/become-a-member) Proud supporter, contributor, and enthusiast
    - 🧠 [The Institute for Ethical AI & Machine Learning](https://ethical.institute/security.html) Proud supporter, contributor, and enthusiast
    - 😈 [MARS Vancouver - #owasp-vancouver and #dc604](https://fourthplanet.ca/) Proud supporter, contributor, and enthusiast
