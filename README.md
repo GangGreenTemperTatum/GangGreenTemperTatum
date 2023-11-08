@@ -128,7 +128,7 @@ I love sharing knowledge with others, building labs and testing to it's full ext
 <!-- GitHub section -->
 
  ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
- 
+
 [![GitHub GangGreenTemperTatum Profile Views](https://komarev.com/ghpvc/?username=GangGreenTemperTatum&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/GangGreenTemperTatum)
 [![GitHub GangGreenTemperTatum Stars](https://badgen.net/github/stars/ganggreentempertatum/ganggreentempertatum)](https://github.com/GangGreenTemperTatum)
 [![GitHub GangGreenTemperTatum Forks](https://badgen.net/github/forks/ganggreentempertatum/ganggreentempertatum)](https://github.com/GangGreenTemperTatum)
@@ -142,10 +142,13 @@ I love sharing knowledge with others, building labs and testing to it's full ext
 </p>
 <!-- Old HTML style Markup END -->
 
-[![GitHub GangGreenTemperTatum Profile Stats 1](https://github-readme-stats.vercel.app/api?username=GangGreenTemperTatum&theme=transparent&show_icons=true)](https://github.com/GangGreenTemperTatum)     
+![](https://github.com/GangGreenTemperTatum/github-stats/blob/master/generated/languages.svg)
+![](https://github.com/GangGreenTemperTatum/github-stats/blob/master/generated/overview.svg)
+
+<!--[![GitHub GangGreenTemperTatum Profile Stats 1](https://github-readme-stats.vercel.app/api?username=GangGreenTemperTatum&theme=transparent&show_icons=true)](https://github.com/GangGreenTemperTatum)-->     
 <!--[![GitHub GangGreenTemperTatum Profile Stats 2](https://github-readme-streak-stats.herokuapp.com/?user=GangGreenTemperTatum)](https://github.com/GangGreenTemperTatum)-->
 <!--[![GitHub GangGreenTemperTatum Profile Stats 3](https://github-readme-stats.vercel.app/api/top-langs?username=GangGreenTemperTatum"&langs_count=20&show_icons=true&locale=en&layout=compact&theme=light)]-->
-![GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GangGreenTemperTatum&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
+<!--![GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GangGreenTemperTatum&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)-->
      
 <!-- Old HTML style Markup from above -->
 <!--  <div>
@@ -157,19 +160,19 @@ I love sharing knowledge with others, building labs and testing to it's full ext
 </div>
 <!-- Old HTML style Markup END -->
     
-**Expand to view:**
+<!-- **Expand to view:**
 <details>
   <summary><b>:zap: GitHub Profile Stat</b></summary>
-  <!--<img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=GangGreenTemperTatum&show_icons=true" />-->
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=GangGreenTemperTatum&show_icons=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GangGreenTemperTatum" />
 </details>
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
    <a href="https://github.com/GangGreenTemperTatum/"><img alt="Ads' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=GangGreenTemperTatum&custom_title=Ads'%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
-</details>
+</details>-->
 
- ##  🏆 My GitHub Trophies
+ ## My GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=GangGreenTemperTatum&theme=discord&no-frame=true&no-bg=false&margin-w=4)
 
 <!-- GitHub section: END -->
