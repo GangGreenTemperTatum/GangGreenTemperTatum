@@ -6,10 +6,8 @@
 
 <!-- About section -->
 
-<h2><b>About Me | Repo's | Public Badges | Credentials</b></h3>
-<!-- code gif --->
-<!-- <img align="right" alt="GIF" src="https://media0.giphy.com/media/IQrQTSWKbrAo8/200.gif?cid=ecf05e47gysua9aldc97r4xupy6ovzx835s9n6jq3hc3wpy3&rid=200.gif&ct=g" width="500" height="320" />-->
-<!-- ![20220812_171706](https://user-images.githubusercontent.com/104169244/214111892-1ed7d901-4714-46c4-bd60-a9f98b4416ae.jpg)-->
+<h2><b>About Me </b></h3>
+
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/104169244/214111892-1ed7d901-4714-46c4-bd60-a9f98b4416ae.jpg" width="400" height="400" />
 
 <p align="left">
@@ -28,15 +26,10 @@ I love sharing knowledge with others, building labs and testing to it's full ext
 
 - 🎧 **Collaborating on Projects**:
    - 🤖 [OWASP Top 10 for Large Language Model Applications](https://owasp.org/www-project-top-10-for-large-language-model-applications/)
-     - Proud Core Team Member, [v1.1 Release Lead](https://github.com/OWASP/www-project-top-10-for-large-language-model-applications/wiki/Core-Team), Entry Lead Expert and Founder of the project and voted lead/author of 3 x `1.0` [vulnerability entries](https://github.com/OWASP/www-project-top-10-for-large-language-model-applications/tree/main/1_0_vulns) to establish the official OWASP Top 10 for Large Language Model Applications
+     - Proud Core Team Member, [v1.1 Technical Release Lead](https://github.com/OWASP/www-project-top-10-for-large-language-model-applications/wiki/Core-Team), Entry Lead Expert and Founder of the project
      - Received MVP award for v1.1 release.
    -	🧠 Core contributor of the [Cloud Security Alliance AI Control](https://cloudsecurityalliance.org/research/working-groups/ai-controls/) Framework working group
-   - 🧠 [Responsible Artificial Intelligence Institute](https://www.responsible.ai/become-a-member) Proud supporter, contributor, and enthusiast
-   - 🧠 [The Institute for Ethical AI & Machine Learning](https://ethical.institute/security.html) Proud supporter, contributor, and enthusiast
-   - 😈 [MARS Vancouver - #owasp-vancouver and #dc604](https://fourthplanet.ca/) Proud supporter, contributor, and enthusiast
-   - 🔧 [Collabnix -> devsecops](https://github.com/collabnix/devsecops) Proud supporter, contributor, and enthusiast
-
-<img width="325" img align="center" alt="ads-owasp-top-10-llm-apps-mvp" src="https://github.com/GangGreenTemperTatum/GangGreenTemperTatum/assets/104169244/a8200127-cea7-4eab-9dea-57a58690b322">
+   - 😈 [MARS OWASP Vancouver Chapter - #owasp-vancouver and #dc604](https://fourthplanet.ca/) Board member, contributor, and enthusiast
 
 -------
 
@@ -46,33 +39,9 @@ I love sharing knowledge with others, building labs and testing to it's full ext
 - ⚡ **Outlook:** Food, exploring, family and culture is everything 🍙 🏔️ 🤝
 - 📫 Always open to contributing on projects or learning something new, please contact me 👇
 
+-------
 
-
-<br>
-</p>
-
-<h5 style="font-size:2vw">(Featured, but not limited to)</h5>
-<!-- code gif-->
-    <p>
-        <a href="https://hackerone.com/ganggreentempertatum?type=user/"><img align="left" img src="https://mms.businesswire.com/media/20200527005320/en/658229/22/hackerone_logo_black.jpg" style="width:300px;height:60px" ;link=https://hackerone.com/ganggreentempertatum/" alt="HackerOne Profile"></a> 
-<a href="https://bugcrowd.com/GangGreenTemperTatum/"><img align="center" img src="https://assets.bugcrowdusercontent.com/assets/logo-full.min-f97006dcf19add73b5e13c546156587a79b449417c6c2581bfb92fc4aae1bbcc.svg" style="width:300px;height:60px" ;link=https://hackerone.com/ganggreentempertatum/" alt="BugCrowd Profile"></a> 
-<a href="https://tryhackme.com/p/GangGreenTatum?show_achievement_badg=blue/"><img align="right" img src="https://tryhackme-badges.s3.amazonaws.com/GangGreenTatum.png" style="width:300px;height:60px" ;link=https://hackerone.com/ganggreentempertatum?type=user/" alt="TryHackMe Profile & Badges"></a> 
-    </p>
-    <p>
-        <a href="https://hub.docker.com/u/ganggreentempertatum"><img align="left" img src="https://www.unixtutorial.org/images/software/docker-hub.png" style="width:300px;height:70px" ;link=https://hub.docker.com/u/ganggreentempertatum" alt="DockerHub Profile"></a> 
-<a href="https://www.postman.com/ganggreentempertatum"><img align="center" img src="https://postman.com/_aether-assets/illustrations/dark/illustration-no-API.svg" style="width:300px;height:60px" ;link=https://www.postman.com/ganggreentempertatum" alt="Postman Profile"></a> 
-<a href="https://www.credly.com/users/adam-dawson.6dc91e21/badges"><img align="right" img src="https://info.credly.com/hubfs/Credly%20Atos%20Web%20Assets/Credly%20Logos/Credly_Pearson_Logo_Orange.svg" style="width:300px;height:60px" ;link=https://www.credly.com/users/adam-dawson.6dc91e21/badges" alt="Credly/Acclaim Profile"></a> 
-    </p>
-    <p>
-<a href="https://api.badgr.io/public/collections/c46f1905748e4e93802d97496b5dd4b8"><img align="left" img src="https://ltd-media.iste.org/logo/l_create_Logo%20Light.jpg" style="width:300px;height:60px" ;link=https://badgr.com/public/collections/c46f1905748e4e93802d97496b5dd4b8" alt="Badgr/Canvas Profile"></a> 
- <a href="https://www.credential.net/profile/adsdawson239132/wallet"><img align="center" img src="https://www.credential.net/assets/themes/credential.net/images/accredible_logo.svg" style="width:300px;height:60px" ;link=[https://www.postman.com/ganggreentempertatum](https://www.credential.net/profile/adsdawson239132/wallet)" alt="Accredible Credentials"></a>
- <a href="https://www.cloudskillsboost.google/public_profiles/31178c26-e328-450f-8fd1-40e310026dfd"><img align="right" img src="https://s3.us-east-1.amazonaws.com/accredible_temp_credential_images/15803214695437276596645753822808.png" style="width:300px;height:60px" ;link=[https://www.postman.com/ganggreentempertatum](https://www.credential.net/profile/adsdawson239132/wallet)" alt="Google Cloud Credentials"></a> 
-    </p>    
-<br>
-<!-- TryHackMe Badge <script src="https://tryhackme.com/badge/292354"></script> -->
-<!-- <img src="https://tryhackme-badges.s3.amazonaws.com/GangGreenTatum.png" alt="TryHackMe"> -->
-<!-- <img src="https://tryhackme.com/p/GangGreenTatum?show_achievement_badg=blue/ alt="TryHackMe">  -->
-<h2 align="left">:hammer_and_wrench: Frequent Technologies and Tools I use:</h2>
+<h2 align="left">Frequent Technologies and Tools I use:</h2>
 <p align="left">
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://terraform.io/" target="_blank"> <img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_5117ca69a3d0f8c563ea49f1c2fcf601/hashicorp-terraform.png" alt="terraform" width="40" height="40"/> </a>
@@ -116,9 +85,8 @@ I love sharing knowledge with others, building labs and testing to it's full ext
         <a href="https://www.linkedin.com/in/adamdawson0/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white;link=https://www.linkedin.com/in/adamdawson0/" alt="LinkedIn Badge"></a> 
 
 * You can also catch me on the following Slack communities:
-  * 🪐 [OWASP](https://owasp.org/) MARS [Slack Community](https://owasp.org/www-chapter-vancouver/) (enthusiast and contributor)
+  * 🪐 [OWASP](https://owasp.org/) MARS Vancouver Chapter [Slack Community](https://owasp.org/www-chapter-vancouver/) (enthusiast and contributor)
   * ⚡ [OWASP](https://owasp.org/) [Slack Community]([https://owasp.org/www-chapter-vancouver/](https://join.slack.com/t/owasp/shared_invite/zt-1w2x2eqms-oAW_~vT1TnIBglt_SthJyQ)) (enthusiast and contributor)
-  * ⚓ [Collabnix](https://collabnix.com/) [Slack Community](https://launchpass.com/collabnix) (project contributor and enthusiast)  
   * 🤓 Chat with me or connect to reach out for help on the [Suricata.io Forums](https://forum.suricata.io/u/adudewhosurfs/badges) site!
 
 <!-- Connect section: END -->
@@ -133,67 +101,7 @@ I love sharing knowledge with others, building labs and testing to it's full ext
 [![GitHub GangGreenTemperTatum Stars](https://badgen.net/github/stars/ganggreentempertatum/ganggreentempertatum)](https://github.com/GangGreenTemperTatum)
 [![GitHub GangGreenTemperTatum Forks](https://badgen.net/github/forks/ganggreentempertatum/ganggreentempertatum)](https://github.com/GangGreenTemperTatum)
 
-<!-- Old HTML style Markup from above -->
-<!-- <p align="left"><img src="https://komarev.com/ghpvc/?username=GangGreenTemperTatum&label=Profile%20views&color=0e75b6&style=flat" alt="gitprofileviews" />
-</p>
- <p align="left"><img src="https://badgen.net/github/stars/ganggreentempertatum/ganggreentempertatum" alt="gitstars" />
-</p>
- <p align="left"><img src="https://badgen.net/github/forks/ganggreentempertatum/ganggreentempertatum" alt="gitforks" />
-</p>
-<!-- Old HTML style Markup END -->
-
 ![](https://github.com/GangGreenTemperTatum/github-stats/blob/master/generated/languages.svg)
 ![](https://github.com/GangGreenTemperTatum/github-stats/blob/master/generated/overview.svg)
 
-<!--[![GitHub GangGreenTemperTatum Profile Stats 1](https://github-readme-stats.vercel.app/api?username=GangGreenTemperTatum&theme=transparent&show_icons=true)](https://github.com/GangGreenTemperTatum)-->     
-<!--[![GitHub GangGreenTemperTatum Profile Stats 2](https://github-readme-streak-stats.herokuapp.com/?user=GangGreenTemperTatum)](https://github.com/GangGreenTemperTatum)-->
-<!--[![GitHub GangGreenTemperTatum Profile Stats 3](https://github-readme-stats.vercel.app/api/top-langs?username=GangGreenTemperTatum"&langs_count=20&show_icons=true&locale=en&layout=compact&theme=light)]-->
-<!--![GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GangGreenTemperTatum&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)-->
-     
-<!-- Old HTML style Markup from above -->
-<!--  <div>
-   <img align="left" src="https://github-readme-stats.vercel.app/api?username=GangGreenTemperTatum&theme=transparent&show_icons=true" alt="Ads's Git Stats"/>
-   <br>
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GangGreenTemperTatum" alt="Ads's Stats" />
-   <br>
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GangGreenTemperTatum"&langs_count=20&show_icons=true&locale=en&layout=compact&theme=light" alt="Ads' language" height="192px"  width="500px"/>
-</div>
-<!-- Old HTML style Markup END -->
-    
-<!-- **Expand to view:**
-<details>
-  <summary><b>:zap: GitHub Profile Stat</b></summary>
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=GangGreenTemperTatum&show_icons=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GangGreenTemperTatum" />
-</details>
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-   <a href="https://github.com/GangGreenTemperTatum/"><img alt="Ads' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=GangGreenTemperTatum&custom_title=Ads'%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-</details>-->
-
- ## My GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=GangGreenTemperTatum&theme=discord&no-frame=true&no-bg=false&margin-w=4)
-
-<!-- GitHub section: END -->
-
-<br>
-     
 💾 `EOF`
-
-<!-- GitHub Default README Stuff -->
-<!--
-**GangGreenTemperTatum/GangGreenTemperTatum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!-- GitHub Default README Stuff: END -->
