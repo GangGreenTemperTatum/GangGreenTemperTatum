@@ -11,12 +11,7 @@
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/104169244/214111892-1ed7d901-4714-46c4-bd60-a9f98b4416ae.jpg" width="400" height="400" />
 
 <p align="left">
-🤟 I'm a Senior Security engineer and have a passion of all things blue and red team, whether that be offensive security, API security, automation of testing, threat hunting; detection & remediation (SOAR) as well as reverse engineering and deep packet inspection. I'm a networking veteran and love a good PCAP to delve into. One of my favorite things at Defcon is hunting for PWN's at the "Wall of Sheep" village and inspecting malicious payloads and binaries.
-<br>
-<br>
-I love sharing knowledge with others, building labs and testing to it's full extent so I fully comprehend a concept, who doesn't love a good worm-hole?!.. in my spare time, you’ll usually find me hanging out on community forums; meetups, learning new languages, enhancing my shell-foo, or demonstrating my skills by participating in bug bounties, CTF’s and contributing to open-source projects.
-<br>
-<br>
+🤟 I have a passion of all things blue and red team, whether that be offensive security, API security, automation of testing, threat hunting; detection & remediation as well as reverse engineering and deep packet inspection.
  
 - 🌎 Canada 🇨🇦 
 - 📣 **Public Speaking & Conferences**:
@@ -85,7 +80,7 @@ I love sharing knowledge with others, building labs and testing to it's full ext
         <a href="https://www.linkedin.com/in/adamdawson0/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white;link=https://www.linkedin.com/in/adamdawson0/" alt="LinkedIn Badge"></a> 
 
 * You can also catch me on the following Slack communities:
-  * 🪐 [OWASP](https://owasp.org/) MARS Vancouver Chapter [Slack Community](https://owasp.org/www-chapter-vancouver/) (enthusiast and contributor)
+  * 🪐 [OWASP](https://owasp.org/) MARS Vancouver Chapter [Slack Community](https://owasp.org/www-chapter-vancouver/)
   * ⚡ [OWASP](https://owasp.org/) [Slack Community]([https://owasp.org/www-chapter-vancouver/](https://join.slack.com/t/owasp/shared_invite/zt-1w2x2eqms-oAW_~vT1TnIBglt_SthJyQ)) (enthusiast and contributor)
   * 🤓 Chat with me or connect to reach out for help on the [Suricata.io Forums](https://forum.suricata.io/u/adudewhosurfs/badges) site!
 
