@@ -21,10 +21,12 @@
 
 - 🎧 **Collaborating on Projects**:
    - 🤖 [OWASP Top 10 for Large Language Model Applications](https://owasp.org/www-project-top-10-for-large-language-model-applications/)
-     - Proud Core Team Member, [v1.1 Technical Release Lead](https://github.com/OWASP/www-project-top-10-for-large-language-model-applications/wiki/Core-Team), Entry Lead Expert and Founder of the project
+     - [Core Team Technical Release Lead](https://github.com/OWASP/www-project-top-10-for-large-language-model-applications/wiki/Core-Team), Entry Lead Expert and Founder of the project
      - Received MVP award for v1.1 release.
-   -	🧠 Core contributor of the [Cloud Security Alliance AI Control](https://cloudsecurityalliance.org/research/working-groups/ai-controls/) Framework working group
-   - 😈 [MARS OWASP Vancouver Chapter - #owasp-vancouver and #dc604](https://fourthplanet.ca/) Board member, contributor, and enthusiast
+   - 😈 [OWASP Vancouver Chapter Lead](https://owasp.org/www-chapter-vancouver/) / [OWASP Toronto Chapter Lead](https://owasp.org/www-chapter-toronto/)
+
+- 👨‍💻 **Recent Contributions**:
+   - 👾 [PortSwigger feat: Bambda to filter authorization values not equal to jwt bearer](https://github.com/PortSwigger/bambdas/pull/61)
 
 -------
 
