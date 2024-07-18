@@ -27,6 +27,7 @@
 
 - 👨‍💻 **Recent Contributions**:
    - 👾 [PortSwigger feat: Bambda to filter authorization values not equal to jwt bearer](https://github.com/PortSwigger/bambdas/pull/61)
+   - 👾 [PortSwigger feat: Bambda highlight paramminer JSON endpoints for custom wordlists](https://github.com/PortSwigger/bambdas/pull/76)
 
 -------
 
