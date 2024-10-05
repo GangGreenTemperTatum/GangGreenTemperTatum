@@ -8,6 +8,7 @@
 
 <h1>Hi 👋, I'm ads</h1>
 <p>Staff AI Security Researcher</p>
+
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
@@ -26,7 +27,15 @@
 <li><a target="_blank" href="https://gist.github.com/GangGreenTemperTatum/ac583842d080d1ccc8e021da8fb87fd0">Gists</li>
 <li><a target="_blank" href="https://cohere.com/blog/authors/adsdawson">Cohere author</li>
 <h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/adamdawson0" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
+<p><a target="_blank" href="https://www.linkedin.com/in/adamdawson0" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p> 
+<p>
+  <a target="_blank" href="https://www.linkedin.com/in/adamdawson0" style="display: inline-block;">
+    <img src="https://github.com/user-attachments/assets/98a2d677-e33f-4d7d-9cdf-cf3b5a5243a9" 
+         alt="linkedin QR Code" 
+         width="200" 
+         height="200" />
+  </a>
+</p>
 <li><a target="_blank" href="https://owasp.org/www-chapter-vancouver">MARS Vancouver Chapter Slack</a></li>
 <li><a target="_blank" href="https://join.slack.com/t/owasp/shared_invite/zt-1w2x2eqms-oAW_~vT1TnIBglt_SthJyQ">OWASP Slack Community</a></li>
 <br>
