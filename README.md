@@ -18,6 +18,7 @@
 <h2>👾 Some Public Open-source Projects and Contributions</h2>
 <ul>
 <p><li><a target="_blank" href="https://github.com/dreadnode/burpference/">burpference (Burp Suite extension)</a></li>
+<p><li><a target="_blank" href="https://github.com/GangGreenTemperTatum/stickyburp/">stickyburp (Burp Suite extension)</a></li>
 <p><li><a target="_blank" href="https://github.com/Addepar/RedFlag/">Redflag</a></li>
 <p><li><a target="_blank" href="https://github.com/dreadnode/dyana/">dyana</a></li>
 </ul>
