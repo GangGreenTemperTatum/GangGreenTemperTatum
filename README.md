@@ -7,7 +7,8 @@
 <!-- Body -->
 
 <h1>Hi 👋, I'm ads</h1>
-<p>Staff AI Security Researcher</p>
+
+Staff AI Security Researcher and [Hacker](https://www.bugcrowd.com/blog/hacker-spotlight-ads-dawson)
 
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="42" height="42" /></a>
