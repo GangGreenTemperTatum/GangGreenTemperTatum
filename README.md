@@ -18,10 +18,13 @@ Staff AI Security Researcher and [Hacker](https://www.bugcrowd.com/blog/hacker-s
 </p>
 <h2>👾 Some Public Open-source Projects and Contributions</h2>
 <ul>
-<p><li><a target="_blank" href="https://github.com/dreadnode/burpference/">burpference (Burp Suite extension)</a></li>
-<p><li><a target="_blank" href="https://github.com/GangGreenTemperTatum/stickyburp/">stickyburp (Burp Suite extension)</a></li>
-<p><li><a target="_blank" href="https://github.com/Addepar/RedFlag/">Redflag</a></li>
-<p><li><a target="_blank" href="https://github.com/dreadnode/dyana/">dyana</a></li>
+<p><li><a target="_blank" href="https://github.com/dreadnode/burpference/">burpference</a>: A web application for identifying and reporting security vulnerabilities in Burp Suite</li></p>
+<p><li><a target="_blank" href="https://github.com/GangGreenTemperTatum/stickyburp/">stickyburp</a>: A Burp Suite extension written in Kotlin that enables persistent sticky session handling in web application testing</li></p>
+<p><li><a target="_blank" href="https://github.com/dreadnode/robopages/">robopages</a>: YAML based files for describing tools to large language models (LLMs), simplifying the process of defining and using external tools in LLM-powered applications</li></p>
+<p><li><a target="_blank" href="https://github.com/GangGreenTemperTatum/DOMspy/">DOMspy</a>: A typescript-based extension for identifying and reporting security vulnerabilities in web applications</li></p>
+<p><li><a target="_blank" href="https://github.com/dreadnode/dyana/">dyana</a>: A sandbox environment designed for loading, running and profiling various files including ML models, ELFs, Pickle, Javascript and more</li></p>
+<p><li><a target="_blank" href="https://github.com/Addepar/RedFlag/">Redflag</a>: AI-powered tool to determine high-risk code changes for security testing and PR review workflows</li></p>
+<p><li><a target="_blank" href="https://github.com/OWASP/www-project-top-10-for-large-language-model-applications">OWASP Top 10 for LLM Applications</a>: Community-driven effort to identify top security risks for large language model applications</li></p>
 </ul>
 <h2>👻 Project Collaborations</h2>
 <ul>
@@ -36,12 +39,12 @@ Staff AI Security Researcher and [Hacker](https://www.bugcrowd.com/blog/hacker-s
 <li><a target="_blank" href="https://gist.github.com/GangGreenTemperTatum/ac583842d080d1ccc8e021da8fb87fd0">Gists</li>
 <li><a target="_blank" href="https://cohere.com/blog/authors/adsdawson">Cohere author</li>
 <h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/adamdawson0" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p> 
+<p><a target="_blank" href="https://www.linkedin.com/in/adamdawson0" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
 <p>
   <a target="_blank" href="https://www.linkedin.com/in/adamdawson0" style="display: inline-block;">
-    <img src="https://github.com/user-attachments/assets/98a2d677-e33f-4d7d-9cdf-cf3b5a5243a9" 
-         alt="linkedin QR Code" 
-         width="200" 
+    <img src="https://github.com/user-attachments/assets/98a2d677-e33f-4d7d-9cdf-cf3b5a5243a9"
+         alt="linkedin QR Code"
+         width="200"
          height="200" />
   </a>
 </p>
