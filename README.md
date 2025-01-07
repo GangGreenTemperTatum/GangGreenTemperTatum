@@ -28,7 +28,8 @@ Staff AI Security Researcher and [Hacker](https://www.bugcrowd.com/blog/hacker-s
 </ul>
 <h2>👻 Project Collaborations</h2>
 <ul>
-<p><li><a target="_blank" href="https://owasp.org/www-project-top-10-for-large-language-model-applications/">OWASP Top 10 for Large Language Model Applications - Core Team Technical Lead, Entry Lead Expert and Founder of the project</a></li>
+<li><a target="_blank" href="https://owasp.org/www-project-top-10-for-large-language-model-applications/">OWASP Top 10 for Large Language Model Applications - Core Team Technical Lead, Entry Lead Expert and Founder of the project</a></li>
+<li><a target="_blank" href="https://www.bugcrowd.com/blog/what-is-bugcrowds-hacker-advisory-board/">Member of the BugCrowd Hacker Advisory Board</a></li>
 <li><a target="_blank" href="https://owasp.org/www-chapter-vancouver/">OWASP Vancouver Chapter Lead</a></li>
 <li><a target="_blank" href="https://owasp.org/www-chapter-toronto/">OWASP Toronto Chapter Lead</a></li>
 <li><a target="_blank" href="https://www.appsecvillage.com/">Defcon AppSec Village Volunteer</a>
