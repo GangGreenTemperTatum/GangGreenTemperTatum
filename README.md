@@ -22,7 +22,7 @@ Staff AI Security Researcher and [Hacker](https://www.bugcrowd.com/blog/hacker-s
 <p><li><a target="_blank" href="https://github.com/GangGreenTemperTatum/stickyburp/">stickyburp</a>: A Burp Suite extension written in Kotlin that enables persistent sticky session handling in web application testing</li></p>
 <p><li><a target="_blank" href="https://github.com/dreadnode/robopages/">robopages</a>: YAML based files for describing tools to large language models (LLMs), simplifying the process of defining and using external tools in LLM-powered applications</li></p>
 <p><li><a target="_blank" href="https://github.com/GangGreenTemperTatum/DOMspy/">DOMspy</a>: A typescript-based extension for identifying and reporting security vulnerabilities in web applications</li></p>
-<p><li><a target="_blank" href="https://github.com/dreadnode/dyana/">dyana</a>: A sandbox environment designed for loading, running and profiling various files including ML models, ELFs, Pickle, Javascript and more</li></p>
+<p><li><a target="_blank" href="https://github.com/dreadnode/dyana/">dyana</a>: A sandbox environment designed for loading, running and profiling various files including ML models, ELFs, Pickle, Javascript and more. PyPi Project (https://pypi.org/project/dyana/0.0.2/)</li></p>
 <p><li><a target="_blank" href="https://github.com/Addepar/RedFlag/">Redflag</a>: AI-powered tool to determine high-risk code changes for security testing and PR review workflows</li></p>
 <p><li><a target="_blank" href="https://github.com/OWASP/www-project-top-10-for-large-language-model-applications">OWASP Top 10 for LLM Applications</a>: Community-driven effort to identify top security risks for large language model applications</li></p>
 </ul>
