@@ -10,6 +10,9 @@
 
 Staff AI Security Researcher and [Hacker](https://www.bugcrowd.com/blog/hacker-spotlight-ads-dawson)
 
+- Tech portfolio: [https://ganggreentempertatum.github.io/](https://ganggreentempertatum.github.io/)
+- Thought leadership portfolio: [https://ganggreentempertatum.github.io/speaking/](https://ganggreentempertatum.github.io/speaking/)
+
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
